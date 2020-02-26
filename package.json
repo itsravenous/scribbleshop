@@ -1,0 +1,15 @@
+{
+  "name": "scribbleshop",
+  "version": "1.0.0",
+  "description": "Slack auto-archiver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Jardine-McNamara <tom@itsravenous.com>",
+  "license": "GPL-3.0",
+  "repository": "https://github.com/itsravenous/scribbleshop",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
